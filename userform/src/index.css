@@ -27,7 +27,7 @@
 
 .wrapper .form-container{
   width: 500px;
-  height: 340px;
+  height: 500pxpx;
   background-color: #e4e4e4;
   margin: 20px auto;
   padding: 20px;   
@@ -48,6 +48,11 @@
 
 .delete-btn{
   color: red;
+  cursor: pointer;
+}
+
+.update-btn{
+  color: green;
   cursor: pointer;
 }
 
