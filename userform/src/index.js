@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.css';
-
+<script src="https://kit.fontawesome.com/651657c78a.js" crossorigin="anonymous"></script>
 ReactDOM.render(
   <React.StrictMode>
     <App />
